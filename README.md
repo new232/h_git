@@ -57,8 +57,7 @@ _______________________________
  1.
  <!-- 이거는 주석 -->
 
-- [] 체크박스?
-github, issue, readme
+- [] 체크박스? github, issue, readme
 - [x] 완료된 일 (체크된 상태, 대문자 X도 가능)
 
 
@@ -92,3 +91,39 @@ gragh LR
 >여러분들 스트레칭 하세여
 > * 지나가는 프로그래밍 아저씨
 - [ ] 할 일
+
+
+
+[연결 하고 싶은 문제](https://www.naver.com/)
+
+
+![대채 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNQJEOLyqjTY9HMEwNcZtcAfueQAiIaWkWITEAlyjqg&s)
+
+
+![대채 텍스트](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZfJWrnpEOm8z-e2-cmwcdOwfNRhDok469wXZhi-mEA&s=10)
+
+![대채 텍스트](https://images.unsplash.com/photo-1794135281323-83434c063f02?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D)
+
+
+
+
+[![이미지](이미지 링크)](접속 링크)
+
+
+
+<center>가운데 정렬</center>
+
+|파이프 라인|
+| 제목1 |
+| :--- |
+| 내용1 |
+| 내용2 |
+
+
+
+
+| 1 | 제목 |
+| :--- | ---: |
+| 내용1 | 내용2 |
+| 내용3 | 내용4 |
+
